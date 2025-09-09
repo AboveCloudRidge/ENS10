@@ -5,6 +5,8 @@
 <img src="img/wx.jpg" width="200" />
 
 ---
+* 软件界面
+
 <img src="img/j1.png" width="800" />
 
 * 基于 `Tkinter` 的windows桌面应用程序，帮助用户进行英语课文和词汇的跟读与背诵练习。
