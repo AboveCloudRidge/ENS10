@@ -1,7 +1,7 @@
 ### ENS10跟读背诵学习软件
 
 * 作者微信：Out0755_2
-<img src="img\wx.jpg"/>
+<img src="img/wx.jpg" width="400" />
 
   
 * 基于 `Tkinter` 的windows桌面应用程序，帮助用户进行英语课文和词汇的跟读与背诵练习。
