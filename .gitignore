@@ -1,0 +1,22 @@
+# 忽略所有文件
+*.vene/
+*.idea/
+*__pycache__/
+
+*ENS10.dist/
+*lessons/
+*Old/
+*wheels/
+*.log
+*.txt
+*.rar
+*.ini
+
+# 例外：允许以下文件夹
+!ENS10.py
+!LICENSE
+!README.md
+
+# 注意：要包含一个文件夹，必须先允许该文件夹本身
+!data/
+!data/w3500.csv  # 允许 data 下所有内容
